@@ -1,5 +1,5 @@
 /*
- Name:		ppm2ibus.ino.ino
+ Name:		ppm_to_ibus_serial.ino
  Created:	10/09/2023
  Author:	filbertby
 */
